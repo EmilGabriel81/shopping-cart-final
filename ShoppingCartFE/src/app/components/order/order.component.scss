@@ -1,0 +1,21 @@
+.order-details {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  margin-top: 8vh;
+  margin-left: 5vh;
+  margin-bottom: 2vh;
+  h4 {
+      padding: 3vh;
+      margin-left: 10vh;
+  }
+  .details {
+      padding: 22px 16px;
+  }
+
+
+
+}
+.order-details:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
